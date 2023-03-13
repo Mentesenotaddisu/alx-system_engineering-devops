@@ -1,1 +1,2 @@
-“Hello, World” ls
+#!/bim/bash
+echo "hello, World”
